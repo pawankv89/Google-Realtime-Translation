@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Realtime Translation/Pods-Realtime Translation-frameworks.sh
+${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework
+${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework
+${BUILT_PRODUCTS_DIR}/Protobuf/protobuf.framework

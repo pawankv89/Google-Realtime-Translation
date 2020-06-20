@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Realtime Translation/Pods-Realtime Translation-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/GoogleMobileVision/GoogleMVFaceDetectorResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/GoogleMobileVision/GoogleMVTextDetectorResources.bundle
