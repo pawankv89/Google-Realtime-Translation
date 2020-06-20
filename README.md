@@ -10,7 +10,7 @@ Added Some screens here.
 ![](https://github.com/pawankv89/Google-Realtime-Translation/blob/master/images/screen_3.PNG)
 ![](https://github.com/pawankv89/Google-Realtime-Translation/blob/master/images/screen_4.PNG)
 
-## HackOnAzure
+## Data & Machine Learning I
 
 ## Submission track
 
