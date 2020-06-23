@@ -27,8 +27,6 @@ https://github.com/pawankv89/Google-Realtime-Translation.git
 
 ## YouTube Video Link: 
 https://youtu.be/6B3hJjwB1C4
-###
-https://github.com/pawankv89/Google-Realtime-Translation/tree/master/video/ocr_to_translation.m4v
 
 ## Screen Shots Link:
 https://github.com/pawankv89/Google-Realtime-Translation/tree/master/images
